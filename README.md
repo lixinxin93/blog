@@ -7,3 +7,6 @@
 
 # 目录
 
+#### - [微信wap生成海报功能踩坑总结](https://github.com/lixinxin93/blog/issues/1)
+
+#### - [小技巧：onblur与onclick冲突时的解决](https://github.com/lixinxin93/blog/issues/2)
