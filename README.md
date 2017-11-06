@@ -18,6 +18,8 @@
 
 #### - [变量的解构赋值](https://github.com/lixinxin93/blog/issues/4)
 
+## MVVM学习笔记
+
 #### - [MVVM的双向绑定技术原理1](https://github.com/lixinxin93/blog/issues/5)
 
 ## 开发工作总结
