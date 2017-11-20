@@ -22,6 +22,11 @@
 
 #### - [MVVM的双向绑定技术原理1](https://github.com/lixinxin93/blog/issues/5)
 
+## 设计模式学习
+
+#### - [浅谈策略模式](https://github.com/lixinxin93/blog/issues/7)
+
+
 ## 开发工作总结
 
 #### - [微信wap生成海报功能踩坑总结（又名：html2canvas踩坑指南）](https://github.com/lixinxin93/blog/issues/1)
