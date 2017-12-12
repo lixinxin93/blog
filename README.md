@@ -26,6 +26,8 @@
 
 #### - [浅谈策略模式](https://github.com/lixinxin93/blog/issues/7)
 
+#### - [状态模式](https://github.com/lixinxin93/blog/issues/8)
+
 
 ## 开发工作总结
 
