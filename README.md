@@ -28,6 +28,13 @@
 
 #### - [状态模式](https://github.com/lixinxin93/blog/issues/8)
 
+## 图解HTTP学习
+
+#### - [1.网络基础和HTTP基础](https://github.com/lixinxin93/blog/issues/9)
+
+#### - [2.HTTP追加协议与安全相关](https://github.com/lixinxin93/blog/issues/10)
+
+#### - [3.HTTPS](https://github.com/lixinxin93/blog/issues/11)
 
 ## 开发工作总结
 
