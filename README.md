@@ -12,6 +12,10 @@
 
 # 目录
 
+## 资源收藏
+
+#### - [收藏的文章](https://github.com/lixinxin93/blog/issues/12)
+
 ## ES2015学习笔记
  
 #### - [let和const命令](https://github.com/lixinxin93/blog/issues/3)
@@ -35,6 +39,14 @@
 #### - [2.HTTP追加协议与安全相关](https://github.com/lixinxin93/blog/issues/10)
 
 #### - [3.HTTPS](https://github.com/lixinxin93/blog/issues/11)
+
+## javascript模式学习
+
+#### - [1.javascript的基本技巧](https://github.com/lixinxin93/blog/issues/13)
+
+#### - [2.字面量模式和构造函数](https://github.com/lixinxin93/blog/issues/14)
+
+#### - [3.函数](https://github.com/lixinxin93/blog/issues/15)
 
 ## 开发工作总结
 
