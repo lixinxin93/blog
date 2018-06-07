@@ -48,6 +48,8 @@
 
 #### - [3.函数](https://github.com/lixinxin93/blog/issues/15)
 
+#### - [4. 对象创建模式](https://github.com/lixinxin93/blog/issues/16)
+
 ## 开发工作总结
 
 #### - [微信wap生成海报功能踩坑总结（又名：html2canvas踩坑指南）](https://github.com/lixinxin93/blog/issues/1)
